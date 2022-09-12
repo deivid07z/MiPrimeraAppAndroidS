@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPrimeraApp2</string>
+    <string name="mensajeBienvenida">Welcome</string>
+    <string name="descripImagen">Dog image</string>
+</resources>

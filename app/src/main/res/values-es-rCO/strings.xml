@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimeraApp2</string>
+    <string name="mensajeBienvenida">Bienvenido</string>
+    <string name="descripImagen">"Imagen de perro "</string>
+</resources>
